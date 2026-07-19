@@ -6,12 +6,12 @@ communication, and AI-powered fraud detection and demand forecasting.
 
 ## 🧩 Services
 
-| Service | Description | Repo |
+| Service       | Description |         Repo |
 |---|---|---|
-| Order Service | Order creation, status tracking, checkout flow | *coming soon* |
-| Inventory Service | Stock management, Redis-backed reservation locking | *coming soon* |
-| Payment Service | Mock payment processing | *coming soon* |
-| Notification Service | Order confirmations via Kafka events | *coming soon* |
+| Order Service | Order creation, status tracking, checkout flow | [flash-sale-order-service](https://github.com/dhirajbhambhu/flash-sale-order-service) |
+| Inventory Service | Stock management, Redis-backed reservation locking | [flash-sale-inventory-service](https://github.com/dhirajbhambhu/flash-sale-inventory-service) |
+| Payment Service | Mock payment processing | [flash-sale-payment-service](https://github.com/dhirajbhambhu/flash-sale-payment-service) |
+| Notification Service | Order confirmations via Kafka events | [flash-sale-notification-service](https://github.com/dhirajbhambhu/flash-sale-notification-service) |
 | AI Service | Fraud detection, demand forecasting, RAG chatbot | [flash-sale-ai-service](https://github.com/dhirajbhambhu/flash-sale-ai-service) |
 
 ## 🏗️ Architecture
